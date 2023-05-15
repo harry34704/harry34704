@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @harry34704
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS, Java script and Reactjs
-- 💞️ I’m looking to collaborate on creating project and also showcasing my work on developing more websites
-- 📫 you can reach me on harry34704@outlook.com
+👋 Hi, I'm @harry34704!
 
-i am still new to github but i am excited to part of an amazing world of Developers and Programmers
+🚀 Self-taught Full Stack Developer 💻 | Android Developer 📱
 
-<!---
-harry34704/harry34704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Certified in Full Stack Development, Software Engineering, and Testing 🏆
+
+🌟 Passionate about coding, I love to explore and learn more in the world of tech! 🔍
+
+🌐 Currently honing my skills in HTML, CSS, JavaScript, and ReactJS 🌱
+
+🔬 Excited to delve into the realms of AI, Data Science, and Technology 💡
+
+📂 Check out my projects, certificates, and coding journey below! 📚
+
+🤝 Looking to collaborate on innovative projects and showcase my website development skills 🌐
+
+📫 Feel free to reach me at harry34704@outlook.com ✉️
+
+🌟 Joining the amazing world of Developers and Programmers on GitHub! Let's code together! 🎉
