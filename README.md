@@ -1,19 +1,35 @@
-👋 Hi, I'm @harry34704!
+👋 Hello there! I'm Harry, a passionate Software Engineer and Data Analyst with a knack for crafting innovative solutions. 💻✨
 
-🚀 Self-taught Full Stack Developer 💻 | Android Developer 📱
+🚀 Professional Journey:
 
-🎓 Certified in Full Stack Development, Software Engineering, and Testing 🏆
+🌐 Completed Frontend and Backend Engineering at META.
+🎓 CS50X and CS50P graduate from Harvard University.
+🌟 Software Internships with JP Morgan Chase and PWC.
+📊 Power BI enthusiast with hands-on experience, including an internship at Foresight.
+💽 Database Engineer with a solid foundation in managing and optimizing databases.
+📱 Android Developer certified with META.
+🌈 Diverse Skill Set:
 
-🌟 Passionate about coding, I love to explore and learn more in the world of tech! 🔍
+👨‍💻 Full-stack proficiency acquired over two years of hands-on experience.
+🛠️ Golang Certification holder, showcasing expertise in a powerful language.
+🚀 Actively pursuing a Computer Science degree with the University of the People.
+🔧 Technical Toolbox:
 
-🌐 Currently honing my skills in HTML, CSS, JavaScript, and ReactJS 🌱
+🚀 Constantly solving CS50 problem sets to refine problem-solving skills.
+📈 Collaborated on automating bank analysis reports for increased efficiency.
+📚 Currently exploring new ideas and coding methodologies.
+🌱 Continuous Learning:
 
-🔬 Excited to delve into the realms of AI, Data Science, and Technology 💡
+📚 Committed to ongoing learning, evident in my LinkedIn endorsements.
+📈 Actively engaged in professional growth, always open to new challenges.
+🌐 LinkedIn: Connect with me!
+🔍 Career Aspirations:
 
-📂 Check out my projects, certificates, and coding journey below! 📚
+👔 Seeking a challenging role as a Software Engineer or Data Analyst.
+🎓 Passionate about leveraging technology to drive meaningful impact.
+🌐 Open to collaboration and eager to contribute to innovative projects.
+💬 Let's Connect and Innovate!
 
-🤝 Looking to collaborate on innovative projects and showcase my website development skills 🌐
-
-📫 Feel free to reach me at harry34704@outlook.com ✉️
-
-🌟 Joining the amazing world of Developers and Programmers on GitHub! Let's code together! 🎉
+📩 Open to collaborations and discussions about tech, ideas, and opportunities.
+🚀 Ready to bring my expertise to your team and make a difference.
+🚀 Join me on this exciting journey of exploration, coding, and continuous development! 🌟
