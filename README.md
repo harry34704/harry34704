@@ -21,7 +21,7 @@ Below you will find case studies showing how I’ve defined problems, shaped sol
 3. **Customer Self-Service Portal**
    - Journey maps
    - MVP scope
-   - Outcome: Reduced manual intervention
+   - Outcome: Reduced manual intervention.
 
 4. **Automation Blueprints**
    - Operational workflows
